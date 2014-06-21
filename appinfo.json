@@ -1,0 +1,26 @@
+{
+  "uuid": "d61d61ea-a029-42f3-ad6a-55b282369cf7",
+  "shortName": "XTERN",
+  "longName": "IndyXtern",
+  "companyName": "KeepFlying",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {},
+  "resources": {
+    "media": [
+      {
+        "type": "png",
+        "name": "LOGO",
+        "file": "images/xtern.png"
+      },
+      {
+        "type": "png",
+        "name": "INDYX",
+        "file": "images/logo.png"
+      }
+    ]
+  }
+}
